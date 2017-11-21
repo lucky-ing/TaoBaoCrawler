@@ -20,10 +20,10 @@
 
 **依赖项**
 ---
->firefox browser\
+>firefox browser  
 >python 3.0+  
->selenium<br\>
->BeautifulSoup\<br>
+>selenium  
+>BeautifulSoup  
 >tqdm
 
 ## Tutorial
