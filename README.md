@@ -20,14 +20,10 @@
 
 **依赖项**
 ---
->firefox browser
-
->python 3.0+
-
->selenium
-
->BeautifulSoup
-
+>firefox browser\<br>
+>python 3.0+\<br>
+>selenium\<br>
+>BeautifulSoup\<br>
 >tqdm
 
 ## Tutorial
@@ -56,6 +52,6 @@ selenium is a Automated testing tool, it can run browser automatly. Taobao have 
 ## ANTI TAOBAO!!!
 淘宝有最全的图片库，虽然离散度也比较高，但是经过简单标注之后可以应用到图片分类的深度学习算法中。我们通过这个程序，可以简单的爬取淘宝的图片。希望大家一起讨论，通过简单的图片分类算法对原始数据集处理操作。
 ## Contact
-Any question owned you can contact me with the wechat:liu806353105, or e-mail:lucky_lsq@163.com
+Any question owned you can contact me with the wechat:**liu806353105**, or e-mail:**lucky_lsq@163.com**
 ## Copyright
 (c) 2017 Lucky-ing LICENSE Apache 2.0
