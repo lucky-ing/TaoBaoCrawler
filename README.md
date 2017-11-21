@@ -36,11 +36,15 @@ python3 main.py -s 电脑 -f ./image
 #-n specific the max num of the downloads
 python3 main.py -s 电脑 -n 5000
 ```
+
 ![tb](https://github.com/lucky-ing/TaoBaoCrawler/raw/master/cache/tb.png  "tb")
+
 ###about the selenium
 selenium is a Automated testing tool, it can run browser automatly. Taobao have anti-reptile strategy that if we use this tool, taobao website will send the context. 
+
 ###淘宝爬虫效果
 ![xia](https://github.com/lucky-ing/TaoBaoCrawler/raw/master/cache/tuoxiascraper.png  "xia")
+
 ###ANTI TAOBAO!!!
 淘宝有最全的图片库，虽然离散度也比较高，但是经过简单标注之后可以应用到图片分类的深度学习算法中。我们通过这个程序，可以简单的爬取淘宝的图片。希望大家一起讨论，通过简单的图片分类算法对原始数据集处理操作。
 ###Contact
