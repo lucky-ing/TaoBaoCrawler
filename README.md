@@ -2,6 +2,7 @@
 ![lucky-ing](https://github.com/lucky-ing/TaoBaoCrawler/raw/master/cache/haimianbaobao.jpg  "lucky-ing")
 
 星期一, 20. 十一月 2017 07:10下午 
+
 做图像处理和做物体识别检测的很多朋友都会有这样一个感受。没有数据集！！！！博主一直苦于没有数据集。而作为最大的，最集中的图片库--淘宝网（百度出来的图片的离散度太高）却无法使用简单的爬虫方式获取图片。（妹子图的爬虫+cook处理也没有用。。。）为此，博主使用了selenium仿真爬虫，这种爬虫的兼容性比较高，只是速度一般，5000张图片需要大约30min，如果爬一夜的话，估计就够我们用的了。有兴趣交流的请发邮件到博主邮箱：
 >lucky_lsq@163.com
 
@@ -20,9 +21,13 @@
 **依赖项**
 ---
 >firefox browser
+
 >python 3.0+
+
 >selenium
+
 >BeautifulSoup
+
 >tqdm
 
 ## Tutorial
