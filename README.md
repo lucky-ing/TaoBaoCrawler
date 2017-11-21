@@ -20,9 +20,9 @@
 
 **依赖项**
 ---
->firefox browser\<br>
->python 3.0+\<br>
->selenium\<br>
+>firefox browser\
+>python 3.0+  
+>selenium<br\>
 >BeautifulSoup\<br>
 >tqdm
 
