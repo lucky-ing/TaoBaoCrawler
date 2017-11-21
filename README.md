@@ -39,7 +39,7 @@ python3 main.py -s 电脑 -n 5000
 ---
 ![tb](https://github.com/lucky-ing/TaoBaoCrawler/raw/master/cache/tb.png  "tb")
 
-
+---
 ###about the selenium
 
 selenium is a Automated testing tool, it can run browser automatly. Taobao have anti-reptile strategy that if we use this tool, taobao website will send the context. 
