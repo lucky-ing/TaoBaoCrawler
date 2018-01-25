@@ -29,7 +29,9 @@ class download_picture(object):
         if self.args.filepath[-1]!='/':
             self.args.filepath+='/'
     def start_core(self):
-        drive = webdriver.Firefox(executable_path='./utils/geckodriver')
+        drive=webdriver.PhantomJS(executable_path='./utils/phantomjs')
+        #drive = webdriver.Firefox(executable_path='./utils/geckodriver')
+        drive.set_window_size(1640, 688)
         drive.get('http://www.taobao.com')
 
         time.sleep(0.5)
