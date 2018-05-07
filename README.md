@@ -27,7 +27,7 @@
 >firefox browser  
 >python 3.0+  
 >selenium  
->BeautifulSoup == 4.4.1 
+>BeautifulSoup==4.4.1   
 >tqdm
 
 ## Tutorial
